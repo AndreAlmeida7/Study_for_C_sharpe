@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj": {}
+    "c:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj": {}
   },
   "projects": {
-    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj": {
+    "c:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj",
+        "projectUniqueName": "c:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj",
         "projectName": "Study_for_C_sharpe",
-        "projectPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj",
+        "projectPath": "c:\\git_andre_almeida\\Study_for_C_sharpe\\Study_for_C_sharpe.csproj",
         "packagesPath": "C:\\Users\\André Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\obj\\",
+        "outputPath": "c:\\git_andre_almeida\\Study_for_C_sharpe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\André Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"
