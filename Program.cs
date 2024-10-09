@@ -5,6 +5,7 @@ Console.WriteLine("Hello, World!");
 // Strings são escritas com duas aspas
 //Todo final de linha no código precisa ter ponto e vírgula
 // o "f string" do python se escreve com o símbolo do cifrão
-String primeiro_nome = "Maria";
-String segundo_nome = "Antonieta";
+
+string primeiro_nome = "Maria";
+string segundo_nome = "Antonieta";
 Console.WriteLine($"Meu amigos são {primeiro_nome} e {segundo_nome}");
