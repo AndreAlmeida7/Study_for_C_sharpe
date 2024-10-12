@@ -24,3 +24,8 @@ Console.WriteLine(friends.Replace("Antonieta", "Luis"));
 Console.WriteLine(terceiro_nome.Contains("André"));
 
 
+//----------------------------------------------------------------------------------//
+
+
+
+
