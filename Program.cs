@@ -25,3 +25,21 @@ Console.WriteLine(terceiro_nome.Contains("André"));
 
 
 //----------------------------------------------------------------------------------//
+
+//Operadores matemáticos
+
+int a = 2100000000;
+int b = 2100000000; // o formato inteiro só suporta até 2^32 (32 bits)
+long c = (long)a + (long)b; //long já aceita até 2^64 (64 bits)
+Console.WriteLine(c);
+
+//Ou
+
+long d = 4100000000000;
+long e = 4100000000000;
+
+long f = d + e;
+Console.WriteLine(f);
+
+
+
