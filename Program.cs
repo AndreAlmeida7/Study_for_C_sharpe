@@ -15,7 +15,7 @@ string terceiro_nome = "André Luiz Rodrigues";
 
 // Aprendendo sobre a variável replace
 
-string friends = $"Meu amigos são {primeiro_nome} e {segundo_nome}";
+string friends = $"My friends are {primeiro_nome} and {segundo_nome}";
 
 // Estou subtituindo a pavra antonieta por Luis
 Console.WriteLine(friends.Replace("Antonieta", "Luis"));
@@ -51,10 +51,27 @@ double t = z + g;
 
 Console.WriteLine(t);
 
-decimal j = 578.5M;
+decimal j = 578.5M; // Maior precisão, porém com um range menor. É necessário colocar o prefixo M em decimal para ser explícito.
 decimal u = 54.978M;
 
 decimal ju = j + u;
 Console.WriteLine(ju);
 
 
+
+//----------------------------------------------------------//
+
+//Condicionais, IFs e loops
+
+int number_a = 5;
+int number_b = 3;
+int sum_a_b = number_a + number_b;
+
+if (sum_a_b > 10)
+{ // É sempre recomendado colocar chaves entre o argumento de if e else. Significa ser mais explícito e direcional com seus comandos
+    Console.WriteLine($"The answer {sum_a_b} is greater than 10"); 
+} 
+else
+{
+    Console.WriteLine($"The answer {sum_a_b} is less than 10");
+}
