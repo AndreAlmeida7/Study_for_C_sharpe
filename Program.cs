@@ -42,4 +42,19 @@ long f = d + e;
 Console.WriteLine(f);
 
 
+// Para utilizar número com ponto flutuante podemos usar Decimal, float ou double (mais usual)
+
+double z = 42.2;
+float g = 56.4F; //É necessário explicitar que o número é um float com o F ao final dele. Além disso, deixa o número com a maior precisão possível.
+
+double t = z + g;
+
+Console.WriteLine(t);
+
+decimal j = 578.5M;
+decimal u = 54.978M;
+
+decimal ju = j + u;
+Console.WriteLine(ju);
+
 
