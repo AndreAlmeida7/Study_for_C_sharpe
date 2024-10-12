@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Study_for_C_sharpe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33276720597a217f8b686629e39c468ece658735")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0450946ec894235e4d8b38198e3c3e311b6e6a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Study_for_C_sharpe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Study_for_C_sharpe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
