@@ -1,0 +1,15 @@
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\bin\Debug\net8.0\Loops.exe
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\bin\Debug\net8.0\Loops.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\bin\Debug\net8.0\Loops.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Loops\obj\Debug\net8.0\ref\Loops.dll
