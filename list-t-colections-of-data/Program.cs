@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var names = new List<string> {"André", "Ana", "Felipe"}; // Declarando a variável "names" como uma lista de variáveis que receberá os nomes citados.
+
+foreach (var name in names) // Para cada nome dentro da lista de nomes faça o seguinte:
+{
+    Console.WriteLine($"Hello {name.ToUpper()}!");  // imprima "Hello (upper name of person)!"  
+}

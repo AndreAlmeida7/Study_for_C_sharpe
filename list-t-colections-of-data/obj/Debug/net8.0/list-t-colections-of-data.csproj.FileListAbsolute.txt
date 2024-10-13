@@ -1,0 +1,15 @@
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\bin\Debug\net8.0\list-t-colections-of-data.exe
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\bin\Debug\net8.0\list-t-colections-of-data.deps.json
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\bin\Debug\net8.0\list-t-colections-of-data.runtimeconfig.json
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\bin\Debug\net8.0\list-t-colections-of-data.dll
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\bin\Debug\net8.0\list-t-colections-of-data.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.AssemblyInfoInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.AssemblyInfo.cs
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.csproj.CoreCompileInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.sourcelink.json
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.dll
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\refint\list-t-colections-of-data.dll
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\list-t-colections-of-data.genruntimeconfig.cache
+C:\git_andre_almeida\Study_for_C_sharpe\list-t-colections-of-data\obj\Debug\net8.0\ref\list-t-colections-of-data.dll
