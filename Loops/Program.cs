@@ -1,4 +1,7 @@
-﻿// Contador - Forma primária
+﻿// Loop while
+/*
+
+// Contador - Forma primária
 
 int counter = 0;
 Console.WriteLine("Esta será a forma primária de realizar contagem");
@@ -51,4 +54,17 @@ do
     counter_3++;
 }
 while (counter_3 <= 4);
+*/
 
+//-----------------------------------------------------------------------------//
+
+//Loop for (contador)
+
+int length = 5;
+for ( //for loop aguarda 3 comandos dentro dele:
+    int i = 0; // Inicializando o for com a variável (índice)
+    i < length; // Condição
+    i++) // iteração (incremento)
+{
+   Console.WriteLine(i);
+}
