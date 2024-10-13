@@ -1,0 +1,15 @@
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\bin\Debug\net8.0\Arrys-lists-indexing-and-for.exe
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\bin\Debug\net8.0\Arrys-lists-indexing-and-for.deps.json
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\bin\Debug\net8.0\Arrys-lists-indexing-and-for.runtimeconfig.json
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\bin\Debug\net8.0\Arrys-lists-indexing-and-for.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\bin\Debug\net8.0\Arrys-lists-indexing-and-for.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.AssemblyInfoInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.AssemblyInfo.cs
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.csproj.CoreCompileInputs.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.sourcelink.json
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\refint\Arrys-lists-indexing-and-for.dll
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.pdb
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\Arrys-lists-indexing-and-for.genruntimeconfig.cache
+C:\git_andre_almeida\Study_for_C_sharpe\Arrays-lists-indexing-and-for\obj\Debug\net8.0\ref\Arrys-lists-indexing-and-for.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arrys-lists-indexing-and-for/1.0.0": {
+        "runtime": {
+          "Arrys-lists-indexing-and-for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrys-lists-indexing-and-for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

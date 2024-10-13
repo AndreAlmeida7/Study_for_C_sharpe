@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrys-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj": {}
+    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrays-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj": {}
   },
   "projects": {
-    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrys-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj": {
+    "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrays-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrys-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj",
+        "projectUniqueName": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrays-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj",
         "projectName": "Arrys-lists-indexing-and-for",
-        "projectPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrys-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj",
+        "projectPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrays-lists-indexing-and-for\\Arrys-lists-indexing-and-for.csproj",
         "packagesPath": "C:\\Users\\André Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrys-lists-indexing-and-for\\obj\\",
+        "outputPath": "C:\\git_andre_almeida\\Study_for_C_sharpe\\Arrays-lists-indexing-and-for\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\André Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"
