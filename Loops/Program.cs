@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Loops
+
+int counter = 0;
+counter++;
+Console.WriteLine(counter);
+counter++;
+Console.WriteLine(counter);
+counter++;
+Console.WriteLine(counter);
+counter++;
+Console.WriteLine(counter);
