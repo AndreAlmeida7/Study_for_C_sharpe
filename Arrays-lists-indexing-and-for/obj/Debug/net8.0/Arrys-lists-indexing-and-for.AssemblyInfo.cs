@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrys-lists-indexing-and-for")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2ae6713c77c94e940dd5e18aef2b0170539a41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6310b2148820541aa2a6b5300bcf836d3f3f8b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrys-lists-indexing-and-for")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrys-lists-indexing-and-for")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
